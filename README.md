@@ -22,7 +22,7 @@ Example:
 
 # Demo
 
-You will project your app for the audience and go through the main features. Depending on your app, you main have a main functionality (taking a picture, uploading the picture using instagram as the model) and have secondary feature (dm's, the explore tab, the settings menu). You want to really make sure you demo the main features over the secondary so plan the route you will take in your app accordingly. Using instagram, one would take a picture, upload the picture, then show the picture in the feed, show it being liked and commented on. 
+You will project your app for the audience and go through the main features. Depending on your app, you may have a main functionality (taking a picture, uploading the picture using instagram as the model) and have secondary feature (dm's, the explore tab, the settings menu). You want to really make sure you demo the main features over the secondary so plan the route you will take in your app accordingly. Using instagram, you would take a picture, upload the picture, then show the picture in the feed, show it being liked and commented on. 
 
 # Q&A
 
